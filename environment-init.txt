@@ -1,0 +1,4 @@
+Documentos/Android-Studio/android-studio/bin/./studio.sh
+cd Android/Sdk/
+source .bashrc
+for open lan prot: sudo iptables -I INPUT -p tcp --dport 19000 -j ACCEPT
